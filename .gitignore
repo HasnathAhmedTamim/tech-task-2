@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Build directory node_modules - exclude from git
+build/*/node_modules/
+build/*/dist/
+build/*/.vite/
+build/*/package-lock.json
