@@ -1,0 +1,12 @@
+﻿{
+  "name": "task2",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node generator.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
